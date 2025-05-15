@@ -21,6 +21,6 @@ const reco = () => {
   about.loadFile('./views/reconhecido.html')
 }
 app.whenReady().then(() => {
-  createWindow()
+  
   reco()
 })
