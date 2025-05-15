@@ -12,8 +12,8 @@ const createWindow = () => {
 // janela reconhecido
 const reco = () => {
   const about = new BrowserWindow({
-    width:1200,
-    height:150,
+    width:1350,
+    height:900,
     autoHideMenuBar:true,
     resizable:false,
     
